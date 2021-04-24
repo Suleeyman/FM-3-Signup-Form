@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Published on FM](https://www.frontendmentor.io/solutions/signup-form-only-css-responsive-ybFnBCGRy)
+- Live Site URL: [Github page](https://suleeyman.github.io/FM-3-Signup-Form/)
 
 ## My process
 
