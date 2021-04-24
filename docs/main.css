@@ -28,7 +28,7 @@ main {
     background: url(./bg-intro-mobile.png) center/cover no-repeat, hsl(0, 100%, 74%);
     padding: 2em 0;
     line-height: 1.5;
-    height: 100%;
+    min-height: 100vh;
 }
 
 .container {
@@ -169,9 +169,13 @@ footer {
 @media screen and (min-width: 800px) {
     main {
         background: url(./bg-intro-desktop.png) center/cover no-repeat, hsl(0, 100%, 74%);
+        position: relative;
     }
 
     .container {
+        position: absolute;
+        top: 50%; left: 50%;
+        transform: translate(-50%, -50%);
         flex-direction: row;
         align-items: center;
         flex-grow: 1;
