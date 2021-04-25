@@ -25,7 +25,7 @@ body {
 }
 
 main {
-    background: url(./bg-intro-mobile.png) center/cover no-repeat, hsl(0, 100%, 74%);
+    background: url(./images/bg-intro-mobile.png) center/cover no-repeat, hsl(0, 100%, 74%);
     padding: 2em 0;
     line-height: 1.5;
     min-height: 100vh;
@@ -168,7 +168,7 @@ footer {
 
 @media screen and (min-width: 800px) {
     main {
-        background: url(./bg-intro-desktop.png) center/cover no-repeat, hsl(0, 100%, 74%);
+        background: url(./images/bg-intro-desktop.png) center/cover no-repeat, hsl(0, 100%, 74%);
         position: relative;
     }
 
